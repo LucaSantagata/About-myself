@@ -25,7 +25,7 @@ The bachelor's degree has formed my skills in advanced physics, mathematics and 
 me to acquire a mindset aimed at solving a wide range of complicated problems by exploiting different skills at the same
 time. I have also developed the ability to work in a team and to write reports or scientific articles.
 
-My final dissertation, titled ["Implementation and evaluation of Firefly Algorithm"](https://github.com/niklai99/PredictiveLearning_applied_to_MuonChamberMonitoring) (link to the GitHub
+My final dissertation, titled ["Implementation and evaluation of Firefly Algorithm"](https://github.com/LucaSantagata/Firefly-Algorithm) (link to the GitHub
 repository), exploits the Firefly Algorithm,a population-based optimization algorithm and mimics a firefly’s attraction to flashing light, which has been proposed by Xin-She Yang (2008) at the University of Cambridge Cambridge. .
 
 
