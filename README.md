@@ -1,6 +1,6 @@
 # About-myself
 # Luca Santagata
-## M.Sc. in Physics of Data @ UniPd
+## M.Sc. in Artificial Intelligence Systems @ UniTn
 
 ### Hi there! :smiley: Welcome to my GitHub profile!
 
@@ -10,13 +10,13 @@ I was born
 * in Capua (CE), Italy
 
 Currently living in 
-* Padua (PD), Italy
+* Trento (TN), Italy
 
 ### :zap: Briefly:
 
-Studying Physics of Data. Graduated in Physics @ UniNa in 2021. 
+Studying Artificial Intelligence. Graduated in Physics @ UniNa in 2021. 
 
-Strong interest and skills in data science, machine learning, evolutionary algorithm and computational biophysics.
+Strong interest and skills in Deep Learning, Computer Vision, Natural Language Processing and Evolutionary Computing.
 
 
 ### :mortar_board: What the B.Sc. in Physics taught me:
